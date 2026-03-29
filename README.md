@@ -1,4 +1,4 @@
-## Conditional Statements in Python: Even or Odd Checker
+## Ex1 : Conditional Statements in Python: Even or Odd Checker
 
 ## Aim
 
@@ -30,7 +30,7 @@ else:
 enter: 8 EVEN
 
 
-## Datatypes-Boolean Expression Evaluation in Python
+## Ex2 : Datatypes-Boolean Expression Evaluation in Python
 
 ## Aim
 
@@ -72,7 +72,7 @@ d: 9
 ```
 
 
-## Datatypes-Character Literal in Python
+## Ex3 : Datatypes-Character Literal in Python
 
 ## Aim
 
@@ -97,7 +97,7 @@ print('a')
 The program successfully displays the characters T and a on separate lines on the screen.
 
 
-## Datatypes-Complex Number Creation in Python
+## Ex4 : Datatypes-Complex Number Creation in Python
 
 ## Aim
 
@@ -137,7 +137,7 @@ print("Imaginary Part:", c.imag)
 Enter the real part: 2 Enter the imaginary part: 3 Complex Number: (2+3j) Real Part: 2.0 Imaginary Part: 3.0
 
 
-## Datatypes-Read and Print a String in Python
+## Ex5 : Datatypes-Read and Print a String in Python
 
 ## Aim
  
